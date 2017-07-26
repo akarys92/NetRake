@@ -1,0 +1,6 @@
+C:\Users\alka\Documents\NetRake\NetRake\bin\Release\NetRake.dll
+C:\Users\alka\Documents\NetRake\NetRake\bin\Release\NetRake.pdb
+C:\Users\alka\Documents\NetRake\NetRake\obj\Release\NetRake.Properties.Resources.resources
+C:\Users\alka\Documents\NetRake\NetRake\obj\Release\NetRake.csproj.GenerateResource.Cache
+C:\Users\alka\Documents\NetRake\NetRake\obj\Release\NetRake.dll
+C:\Users\alka\Documents\NetRake\NetRake\obj\Release\NetRake.pdb

@@ -1,0 +1,8 @@
+C:\Users\alka\Documents\NetRake\Driver\bin\Release\Driver.exe.config
+C:\Users\alka\Documents\NetRake\Driver\bin\Release\Driver.exe
+C:\Users\alka\Documents\NetRake\Driver\bin\Release\Driver.pdb
+C:\Users\alka\Documents\NetRake\Driver\bin\Release\NetRake.dll
+C:\Users\alka\Documents\NetRake\Driver\bin\Release\NetRake.pdb
+C:\Users\alka\Documents\NetRake\Driver\obj\Release\Driver.csprojResolveAssemblyReference.cache
+C:\Users\alka\Documents\NetRake\Driver\obj\Release\Driver.exe
+C:\Users\alka\Documents\NetRake\Driver\obj\Release\Driver.pdb
